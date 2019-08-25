@@ -30,7 +30,7 @@ import Wrapper from "./components/Wrapper";
 import ScoreBar from "./components/ScoreBar";
 import images from "./images.json";
 import "./App.css";
-import { setServers } from "dns";
+
 
 class App extends Component {
   state = {
