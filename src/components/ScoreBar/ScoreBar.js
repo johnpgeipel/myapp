@@ -3,7 +3,7 @@ import "./ScoreBar.css";
 
 const ScoreBar = props => (
     <div className="score-bar text-center">
-        <h3> Score: {props.score} </h3>
+        <h3>Score: {props.score}</h3>
     </div>
 );
 
