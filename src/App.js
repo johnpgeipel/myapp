@@ -60,7 +60,7 @@ class App extends Component {
         return (
             <div> 
                 <Header 
-                    title="Clicky Game" 
+                    title="clicky game" 
                     desc="A React based memory game."
                     rules="Click on an image to earn points, but don't click on an image more than once." 
                 />

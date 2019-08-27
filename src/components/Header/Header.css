@@ -8,7 +8,8 @@
 
 header > h1 {
     color:darkslategray;
-    -webkit-text-stroke: 2px darkslategray;
+    /* -webkit-text-stroke: 2px darkslategray; */
+    font-family: 'Gayathri', sans-serif;
 }
 
 @media screen and (max-width: 500px) {

@@ -1,5 +1,5 @@
 import React from "react";
-import "./ImageCard.css";
+import "./imageCard.css";
 
 const ImageCard = props => (
     <div className="card" onClick={props.imageClick}>
